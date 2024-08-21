@@ -11,6 +11,7 @@ namespace palindrome
         static void Main(string[] args)
         
         {
+            //code for palindrome
             Console.Write("Enter a string: ");
             string input = Console.ReadLine();
 
