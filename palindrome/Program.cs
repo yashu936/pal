@@ -12,7 +12,7 @@ namespace palindrome
         
         {
             //code for palindrome
-            Console.Write("Enter a string: ");
+            Console.Write("Enter a : ");
             string input = Console.ReadLine();
 
             if (IsPalindrome(input))
